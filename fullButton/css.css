@@ -1,0 +1,10 @@
+.new_container {
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.half {
+  width: 50%;
+  background-color: aliceblue;
+}
